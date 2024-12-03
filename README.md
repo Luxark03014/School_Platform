@@ -42,6 +42,9 @@ This is a **Laravel-based web application** designed to manage projects efficien
 7. Run database migrations:
    ```bash
    php artisan migrate
+8. Load vite
+   ```bash
+   npm run build
 
 ## Seeding Default Users
 To create default users for the application, including an admin and a student user, you can run the database seeder.
